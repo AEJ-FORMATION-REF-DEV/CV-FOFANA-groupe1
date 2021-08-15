@@ -1,0 +1,108 @@
+body{
+    background-color write;
+    margin: 300px;
+   width: 800px;
+   border: solid 3px black;
+   position:  relative 50px; 
+
+}
+.photo{
+    float: right;
+    margin-top: -25%;
+}
+.info{
+    font-size: 20px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+}
+.profil{
+    border-radius: 10px;
+    background-color: rgba(237, 245, 244, 0.664);
+    border: solid 5px blue;
+    min-height: 30px;
+    font-size: 25px;
+    text-align: center;
+    margin: 15PX;
+}
+header{
+    height: 250px;
+    padding-top: 15px;
+    color: black;
+    background-color: rgba(237, 245, 244, 0.664);
+    font-size: 15px;
+   
+}
+.photo{
+    margin-left:-45%;
+    border-radius: 50%;
+    width: 130px;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.forma h2{
+    color: blue;
+    text-align: inherit;
+    margin: 2px;
+}
+.des{
+    margin-left: 20px;
+    font-weight: bold;
+}
+.post{
+    margin-left: 3px;
+    font-weight: bold;
+}
+.right{
+    margin-left: 20px;
+    font-weight: bold;
+}
+.forma{
+    font-size: 20px;  
+    margin-left: 25px;
+
+}
+.exp{
+    margin-left: 25px;
+}
+.comp{
+    margin-left: 25px;
+}
+.diver{
+    margin-left: 25px;
+}
+h1{
+    color: blue;
+    margin: 25px;
+
+    
+}
+h2{
+    color: blue;
+    margin-left: 100px;
+    font: optional;
+    font-weight: bold;
+}
+h3{
+    color: rgb(35, 106, 236);
+    font-weight: bold;
+}
+a{
+    margin: 25px;
+    font-weight: bold;
+}
+a1{
+    color: red;
+}
+.header{
+    border-radius: 25px;
+    background-color:red;
+    border: solid 5px blue;
+    min-height: 30px;
+    font-size: 25px;    
+}
+a3{
+    margin-left: 50px;
+}
+a4{
+    color: blue;
+}
